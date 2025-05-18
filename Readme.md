@@ -84,10 +84,11 @@ Le projet suit deux grands volets :
 ## Auteur
 
 Projet réalisé par **Abderrahmane Boufares** et **Mehdi Ibrahim Assifar**
+
 boufares11@gmail.com
 
 ---
 
 ## Remarque
 
-Ce projet s’inscrit dans une approche académique visant à combiner rigueur économique et outils statistiques avancés pour explorer les dynamiques de croissance internationale dans une logique de convergence ou de polarisation.
+Ce projet s’inscrit dans une approche académique visant à combiner rigueur économique et outils statistiques avancés pour explorer les dynamiques de croissance internationale dans une logique de convergence.
