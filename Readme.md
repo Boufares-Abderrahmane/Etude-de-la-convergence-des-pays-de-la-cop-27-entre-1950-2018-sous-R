@@ -83,8 +83,8 @@ Le projet suit deux grands volets :
 
 ## Auteur
 
-Projet réalisé par **Abderrahmane Boufares** et **Mehdi Ibrahim Assifar*
-📧 boufares11@gmail.com
+Projet réalisé par **Abderrahmane Boufares** et **Mehdi Ibrahim Assifar**
+boufares11@gmail.com
 
 ---
 
